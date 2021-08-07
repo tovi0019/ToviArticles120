@@ -1,0 +1,17 @@
+.article{
+    border: double;
+    width: 15vw;
+    height: 15vh;
+    margin-bottom: 4vh;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px; 
+    margin-left: 42%;
+    font-family: cursive;
+    font-size: medium;
+}
+.title{
+    font-weight: 200;
+    font-size: 40px;
+}

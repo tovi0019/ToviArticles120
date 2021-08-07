@@ -1,0 +1,47 @@
+.titel{
+    font-size: 30px;
+}
+.comment{
+    font-size: 50px;
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+}
+.buttonJump{
+    border-radius: 50px;
+    margin-right: 2vw;
+    margin-bottom: 2vh;
+    background-color:black;
+    color: white;
+}
+.commentDetails{
+    height: 20vh;
+}
+.select{
+    margin-bottom: 5vh;
+}
+.paper {
+    position: 'absolute';
+    width: 400px;
+    background-color: white;
+    border: '2px solid #000';
+    border-radius: 20px;
+    border: double black;
+    margin: auto;
+   margin-top: 30vh;
+}
+.buttonInModal{
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    margin-left: 12vw;
+}
+#simple-modal-description{
+    background-color: black;
+    color: white;
+    font-size: x-large;
+}
+.select{
+text-align: center;
+margin-bottom: 5vh;
+}
